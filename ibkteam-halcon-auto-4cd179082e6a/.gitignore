@@ -1,0 +1,22 @@
+/target/
+**/target/
+*/target/*
+# ignore eclipse files #
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ignore entellij files #
+*.iml
+*.idea
+
+# other typs of files #
+*.log
+debug.log
+# Evidencias #
+/evidencias/

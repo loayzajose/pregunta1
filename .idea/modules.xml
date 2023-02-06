@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ibkteam-halcon-auto-4cd179082e6a/halcon-automation-testing.iml" filepath="$PROJECT_DIR$/ibkteam-halcon-auto-4cd179082e6a/halcon-automation-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ibkteam-halcon-auto cta simple.iml" filepath="$PROJECT_DIR$/.idea/ibkteam-halcon-auto cta simple.iml" />
+    </modules>
+  </component>
+</project>
